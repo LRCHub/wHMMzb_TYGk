@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カウンターアイデンティティ",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-04-01T13:29:57.949538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カウンターアイデンティティ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_カウンターアイデンティティ_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カウンターアイデンティティ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_カウンターアイデンティティ_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
